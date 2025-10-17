@@ -68,8 +68,12 @@ Fielding dismissals ratio (D/I)
 📈 Dashboard Highlights
 
 Page 1: Batting Performance – KPIs, slicers, category cards
+![Batting Analysis](https://d36vu4awtdgnqw.cloudfront.net/1bbft%2Fpreview%2F71916743%2Fmain_large.jpg?response-content-disposition=inline%3Bfilename%3D%22main_large.jpg%22%3B&response-content-type=image%2Fjpeg&Expires=1760732296&Signature=O51IfpPOCBhnqx9HlhzMZspkdP4QS4ivlNKC0RiRUBODe8hBOJknPUVWfUnTbeiFwSgHXCue5tEY1JipYPRmUzAfDgFcH3soF4d7~MPxf~WWcYXt5~ohxyNiVCcj4u-o2JOqwpYVHTDGOuuQG~aRmkHeIkzsMrRggoWRfCmh2rgfs-hZq3uVDVGFZ6AiIxJHAVVjAwR6MS4p75gk3AJeRM4IZ9Lw0stkMJ9TDd4Xht28My7zAvNymJIHt~MNQuCjSs3eKcOaTs-qEQ8g3QUgNlXYuA09H-rMQ8lCw9D9Q4KNAqULMaYTnZj1Xrk35U8IBUc5xprlw5nun0gPeyql-A__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ)
+
 
 Page 2: Bowling Analysis – Economy trends, top bowlers
+![Bowling Analysis](https://d2n7fc0kw20ri7.cloudfront.net/33dft%2Fpreview%2F71916807%2Fmain_large.jpg?response-content-disposition=inline%3Bfilename%3D%22main_large.jpg%22%3B&response-content-type=image%2Fjpeg&Expires=1760732573&Signature=HePFtINRUyEx8qQLtpcFC2g~v1p~MFJSKRYSBP5TCh8g5ASWR~RfNiT76hqUV-91~kjKYXLQksbl2O7fl9zWsC77kcY~rhzlqjwvzj8LkHTotS4S~2JXFB4vYHh-4FnDvAyF50PcNUFoY24jq7usi-tPN02c14xder74VD7PaT1HvlMD-fHUkKlhM7cmW62KniLGEnkmx9~zxj6L4L~Nwzj95g8~XzzkL0znGEIyD-8rfry9g9XUy0C7thH7i8CHibXnYYB0HiZnjGg5IxnHEFjLcDWHQ1Irfxv1as0kgHC8gvLoHYFxvEn5RjM8sS8zkt7NrFBDTmP42F-aTQm8Vg__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ)
+
 
 Page 3: Fielding Insights – D/I ratios, catch distribution
 
